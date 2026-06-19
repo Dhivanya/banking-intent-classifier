@@ -34,5 +34,3 @@ response efficiency.
 - 📊 Top 5 intent confidence chart
 - 🕐 Recent query history
 - 🟢 Confidence level indicator (High/Medium/Low)
-
-## 📁 Project Str
